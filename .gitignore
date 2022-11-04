@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+misc/headway example.xlsx
+misc/Headway Query Details.docx
+data/Headway Data.csv
+data/bna_weather.csv
+data/bna_2022.csv
+misc/Headways.pbix
